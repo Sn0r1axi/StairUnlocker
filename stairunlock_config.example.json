@@ -7,6 +7,6 @@
   "subURL": "",
   "include": "",
   "exclude": "IPV6|本站|剩余|过期|用户|官网",
-  "localFile": true,
+  "localFile": false,
   "token": ""
 }
