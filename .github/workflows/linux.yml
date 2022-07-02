@@ -1,4 +1,4 @@
-name: Unlock Test (Linux)
+name: 登录Github后点进来看batch_testing里的Testing Netflix Unlock Status
 on:
   workflow_dispatch:
   schedule:
