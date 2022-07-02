@@ -2,7 +2,7 @@
   "localAddress": "127.0.0.1",
   "mixPort": 7890,
   "controlPort": 9090,
-  "fastMode": true,
+  "fastMode": false,
   "converterAPI": "https://api.dler.io",
   "subURL": "",
   "include": "",
