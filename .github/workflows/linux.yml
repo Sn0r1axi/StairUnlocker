@@ -2,7 +2,7 @@ name: 登录Github后点进来看batch_testing里的Testing Netflix Unlock Statu
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */3 * * *'
+    - cron: '0 3 * * *'
 jobs:
   batch_testing:
     runs-on: ubuntu-latest
